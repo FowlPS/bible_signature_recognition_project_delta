@@ -1,0 +1,1 @@
+# bible_signature_recognition_project_delta
